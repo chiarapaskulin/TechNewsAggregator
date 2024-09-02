@@ -1,0 +1,6 @@
+@TechNewsAggregator_HostAddress = http://localhost:5186
+
+GET {{TechNewsAggregator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
